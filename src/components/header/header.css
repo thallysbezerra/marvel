@@ -1,0 +1,5 @@
+.header {
+  background-color: var(--red);
+  height: 90px; }
+  .header .logo {
+    max-height: 90px; }

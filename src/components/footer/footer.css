@@ -1,0 +1,18 @@
+.footer {
+  border-top: 7px solid var(--red); }
+  .footer .footer-empty {
+    background-color: var(--grey3);
+    height: 117px; }
+  .footer .footer-notes {
+    background-color: var(--grey2);
+    padding: 35px; }
+    .footer .footer-notes a {
+      color: var(--grey7);
+      display: block;
+      font-size: 14px;
+      margin: 0 auto;
+      max-width: 667px;
+      text-align: center;
+      text-decoration: none; }
+      .footer .footer-notes a:hover {
+        text-decoration: underline; }
